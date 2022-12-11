@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Abraham's Portfolio</title>
+</head>
+<body>
+    <h1>My Portfolio</h1>
+    <h2>About Me</h2>
+    <p>
+        Dear Hiring Manager,
+
+I am writing to apply for the position of Optical Technician at your company. I am confident that my skills and experience make me an excellent candidate for this role.
+As an Optical Technician, I have experience with a wide range of tasks, including optical table-top setup and alignment, detectors, system tests, and data acquisition. I have also developed new manufacturing processes and have experience troubleshooting and conducting failure analysis. Additionally, I have experience with assembly and alignment of lasers and subassemblies, test station and equipment setup, and unit adjustment, alignment, and calibration. I am skilled at troubleshooting and repairing failed sub-assemblies, and I have experience with opto-mechanical assembly and inspection of optical sub-assemblies.
+In addition to my technical skills, I also have a strong work ethic and excel at performing repetitive tasks. I am able to learn new skills and job functions quickly, and I work well in a team environment. I also have good visual acuity and manual dexterity.
+I have an Associates degree in a relevant field and have four years of work experience and training in the relevant field. I also have basic computer skills and proficient mathematics skills. I have experience deploying technology to manufacturing and working in lean value streams.
+I am excited about the opportunity to join your team and would greatly appreciate the chance to discuss this position further. Thank you for considering my application.
+
+Sincerely,
+Abraham 
+    </p>
+    <h2>Work Experience</h2>
+    <h3>Company Name - Job Title</h3>
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dictum volutpat ipsum,
+        a elementum nulla commodo at. Integer quis eros id erat tempor ornare at non purus.
+        Sed mollis, tortor quis fermentum bibendum, purus ex faucibus ante, eu posuere quam
+        lorem non eros.
+    </p>
+    <h3>Company Name - Job Title</h3>
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dictum volutpat ipsum,
+        a elementum nulla commodo at. Integer quis eros id erat tempor ornare at non purus.
+        Sed mollis, tortor quis fermentum bibendum, purus ex faucibus ante, eu posuere quam
+        lorem non eros.
+    </p>
+    <h2>Education</h2>
+    <h3>Laser & Optics Degree - Institution Name</h3>
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dictum volutpat ipsum,
+        a elementum nulla commodo at. Integer quis eros id erat tempor ornare at non purus.
+        Sed mollis, tortor quis fermentum bibendum, purus ex faucibus ante, eu posuere quam
+        lorem non eros.
+    </p>
+    <h3>Degree - Institution Name</h3>
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dictum volutpat ipsum,
+        a elementum nulla commodo at. Integer quis eros id erat tempor ornare at non purus.
+        Sed mollis, tortor quis fermentum bibendum, purus ex faucibus ante, eu posuere quam
+        lorem non eros.
+    </p>
+</body>
+</html>`		
